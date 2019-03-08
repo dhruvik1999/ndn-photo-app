@@ -7,5 +7,6 @@
     <color name="colorAccentBright">#00ffff</color>
     <color name="colorAccentDark">#303F9F</color>
     <color name="colorPrimaryDark">#260441</color>
+    <color name="whiteTransp">#98FFFFFF</color>
 
 </resources>
